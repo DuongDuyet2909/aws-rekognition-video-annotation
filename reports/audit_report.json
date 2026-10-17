@@ -1,0 +1,15 @@
+{
+  "operation": "audit",
+  "images": 755,
+  "annotations": 755,
+  "boxes": 12720,
+  "duplicate_rows": 0,
+  "unknown_confidence_boxes": 12720,
+  "missing_images": [],
+  "missing_labels": [],
+  "metadata_origins": {
+    "legacy_import": 755
+  },
+  "accuracy": null,
+  "accuracy_note": "No human-verified ground truth supplied."
+}

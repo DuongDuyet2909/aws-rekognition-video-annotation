@@ -1,0 +1,9 @@
+{
+  "operation": "export-yolo",
+  "train": 114,
+  "validation": 31,
+  "excluded_gap_frames": 6,
+  "every": 5,
+  "gap": 30,
+  "note": "Single-video pseudo-labels, not independent validation; review before training."
+}

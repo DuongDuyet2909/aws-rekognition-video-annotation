@@ -1,0 +1,8 @@
+{
+  "filename": "aws-rekognition-complete-demo.zip",
+  "sha256": "a6e04e1fffb876578f03791b4c8063bfe15ea1f96ad1b83539ca2c8799f64d5e",
+  "size_bytes": 609122026,
+  "files": 3845,
+  "download_url": "https://github.com/DuongDuyet2909/aws-rekognition-video-annotation/releases/download/v1.0.0/aws-rekognition-complete-demo.zip",
+  "includes": "Video and every existing output file; no credentials/environments/caches."
+}

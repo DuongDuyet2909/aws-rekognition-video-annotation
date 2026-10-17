@@ -1,0 +1,36 @@
+{
+  "verified": true,
+  "decoded_video_frames": 755,
+  "video_fps": 29.97,
+  "video_size": [
+    1280,
+    720
+  ],
+  "annotations": {
+    "operation": "audit",
+    "images": 755,
+    "annotations": 755,
+    "boxes": 12720,
+    "duplicate_rows": 0,
+    "unknown_confidence_boxes": 12720,
+    "missing_images": [],
+    "missing_labels": [],
+    "metadata_origins": {
+      "legacy_import": 755
+    },
+    "accuracy": null,
+    "accuracy_note": "No human-verified ground truth supplied."
+  },
+  "annotated_images": 755,
+  "yolo_labels": 755,
+  "metadata_files": 755,
+  "train_images": 114,
+  "validation_images": 31,
+  "review_pending": 26,
+  "ground_truth_guard_passed": true,
+  "new_aws_api_calls": 0,
+  "credential_literals_removed": true,
+  "tests_passed": 12,
+  "actual_detection_accuracy": null,
+  "live_aws_integration_tested": false
+}

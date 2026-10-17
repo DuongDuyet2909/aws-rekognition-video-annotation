@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+credentials.py
+*accessKeys*.csv
+*.pem
+.aws/
+output*/
+zebras.mp4
+*.log
+
+.downloads/
+*.zip

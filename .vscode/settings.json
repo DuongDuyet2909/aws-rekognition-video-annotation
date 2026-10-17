@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
+  "code-runner.runInTerminal": true
+}

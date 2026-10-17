@@ -1,0 +1,15 @@
+{
+  "operation": "detect",
+  "selected_frames": 755,
+  "cached_frames": 755,
+  "recovered_from_response": 0,
+  "new_api_calls": 0,
+  "sdk_retries": 0,
+  "legacy_frames_used": 755,
+  "failures": [],
+  "missing_cache": [],
+  "request_budget_reached": false,
+  "complete": true,
+  "selected_frames_expected": 755,
+  "video_frames_read": 755
+}
